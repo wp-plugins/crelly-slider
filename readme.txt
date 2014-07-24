@@ -1,7 +1,8 @@
 === Crelly Slider ===
-Contributors: 
+Contributors:  fabiorino
 Donate link: http://fabiorino1.altervista.org/projects/crellyslider/contribute-and-support/
 Tags: slider, slides, animations, drag & drop, drag and drop, layers, elements
+Requires at least: 3.0.1
 Tested up to: 3.9
 Stable tag: 0.6.5
 License: GPLv2 or later
