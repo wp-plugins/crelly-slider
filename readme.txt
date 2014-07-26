@@ -4,7 +4,7 @@ Donate link: http://fabiorino1.altervista.org/projects/crellyslider/contribute-a
 Tags: slider, slides, animations, drag & drop, drag and drop, layers, elements
 Requires at least: 3.0.1
 Tested up to: 3.9
-Stable tag: 0.6.6
+Stable tag: 0.6.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,6 +30,10 @@ Click Activate.
 You can find the documentation <a href="http://fabiorino1.altervista.org/projects/crellyslider/documentation/">here</a>.
 
 == Changelog ==
+
+= 0.6.7 =
+* Fixed "Add image" not working on Firefox and Internet Explorer
+* Fixed "Duplicate element" on animations
 
 = 0.6.6 =
 * Fixed directory error
