@@ -31,5 +31,8 @@ You can find the documentation <a href="http://fabiorino1.altervista.org/project
 
 == Changelog ==
 
+= 0.6.6 =
+* Fixed directory error
+
 = 0.6.5 =
 * Initial release.
