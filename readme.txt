@@ -4,7 +4,7 @@ Donate link: http://fabiorino1.altervista.org/projects/crellyslider/contribute-a
 Tags: slider, slides, animations, drag & drop, drag and drop, layers, elements
 Requires at least: 3.0.1
 Tested up to: 3.9
-Stable tag: 0.6.6
+Stable tag: 0.6.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,6 +18,39 @@ Crelly Slider is a Free / Open Source WordPress slider with a powerful Drag & Dr
 <a href="http://fabiorino1.altervista.org/projects/crellyslider/">Official WebSite (with live demo)</a>
 <br />
 <a href="http://fabiorino1.altervista.org/projects/crellyslider/documentation">Documentation</a>
+<br />
+<br />
+<ul>
+<li>
+<strong>User Friendly Admin Panel</strong>
+Crelly Slider does not require any Coding Knowledge. With the simple admin panel you will be able to create the sliders in the easiest way. Upload images with the default WordPress interface or choose colors using the picker.
+</li>
+
+<li>
+<strong>High Cross Browser Compatibility</strong>
+Most of the animations and the transitions are written in jQuery (using the “animate” function). In this way we can assure the compatibility with modern (even Android and iOs) and older browsers (like IE8).
+</li>
+
+<li>
+<strong>Drag and Drop Builder</strong>
+How can you position all the elements in to the slider area? You just simply drag them in to the desired position. Like in Powerpoint, you just have to move the object around the Slide.
+</li>
+
+<li>
+<strong>Transitions & Animations</strong>
+Foreach element and slide you can choose an in animation and an out animation using a simple selection menu. You can set the transition speeds and how long the element will take to get in and out.
+</li>
+
+<li>
+<strong>Completly Responsive</strong>
+Responsive means that the Slider will be displayed correctly in every resolution that the user will use. If the display is small (like in a smartphone), the slides and the elements will be scaled to be adapted.
+</li>
+
+<li>
+<strong>Full & Fixed Width Modes</strong>
+Using Crelly Slider you can select between a fixed or a full-width layout (both of them can be responsive). You are the designer, you own the WebSite, just choose the best for it.
+</li>
+</ul>
 
 == Installation ==
 
@@ -30,6 +63,10 @@ Click Activate.
 You can find the documentation <a href="http://fabiorino1.altervista.org/projects/crellyslider/documentation/">here</a>.
 
 == Changelog ==
+
+= 0.6.7 =
+* Fixed "Add image" not working on Firefox and Internet Explorer
+* Fixed "Duplicate element" on animations
 
 = 0.6.6 =
 * Fixed directory error
