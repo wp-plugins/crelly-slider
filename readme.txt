@@ -24,7 +24,7 @@ Crelly Slider is a Free / Open Source WordPress slider with a powerful Drag & Dr
 * Crelly Slider does not require any Coding Knowledge. With the simple admin panel you will be able to create the sliders in the easiest way. Upload images with the default WordPress interface or choose colors using the picker.
 
 =High Cross Browser Compatibility=
-* Most of the animations and the transitions are written in jQuery (using the “animate” function). In this way we can assure the compatibility with modern (even Android and iOs) and older browsers (like IE8).
+* Most of the animations and the transitions are written in jQuery (using the "animate" function). In this way we can assure the compatibility with modern (even Android and iOs) and older browsers (like IE8).
 
 =Drag and Drop Builder=
 * How can you position all the elements in to the slider area? You just simply drag them in to the desired position. Like in Powerpoint, you just have to move the object around the Slide.
