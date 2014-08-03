@@ -48,6 +48,11 @@ Click Activate.
 <br />
 You can find the documentation <a href="http://fabiorino1.altervista.org/projects/crellyslider/documentation/">here</a>.
 
+== Screenshots ==
+
+1. An example of a slide you can create
+2. The slider back-end interface
+
 == Changelog ==
 
 = 0.6.7 =
