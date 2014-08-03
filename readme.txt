@@ -20,37 +20,23 @@ Crelly Slider is a Free / Open Source WordPress slider with a powerful Drag & Dr
 <a href="http://fabiorino1.altervista.org/projects/crellyslider/documentation">Documentation</a>
 <br />
 <br />
-<ul>
-<li>
-<strong>User Friendly Admin Panel</strong>
-Crelly Slider does not require any Coding Knowledge. With the simple admin panel you will be able to create the sliders in the easiest way. Upload images with the default WordPress interface or choose colors using the picker.
-</li>
+=User Friendly Admin Panel=
+*Crelly Slider does not require any Coding Knowledge. With the simple admin panel you will be able to create the sliders in the easiest way. Upload images with the default WordPress interface or choose colors using the picker.
 
-<li>
-<strong>High Cross Browser Compatibility</strong>
-Most of the animations and the transitions are written in jQuery (using the “animate” function). In this way we can assure the compatibility with modern (even Android and iOs) and older browsers (like IE8).
-</li>
+=High Cross Browser Compatibility=
+*Most of the animations and the transitions are written in jQuery (using the “animate” function). In this way we can assure the compatibility with modern (even Android and iOs) and older browsers (like IE8).
 
-<li>
-<strong>Drag and Drop Builder</strong>
-How can you position all the elements in to the slider area? You just simply drag them in to the desired position. Like in Powerpoint, you just have to move the object around the Slide.
-</li>
+=Drag and Drop Builder=
+*How can you position all the elements in to the slider area? You just simply drag them in to the desired position. Like in Powerpoint, you just have to move the object around the Slide.
 
-<li>
-<strong>Transitions & Animations</strong>
-Foreach element and slide you can choose an in animation and an out animation using a simple selection menu. You can set the transition speeds and how long the element will take to get in and out.
-</li>
+=Transitions & Animations=
+*Foreach element and slide you can choose an in animation and an out animation using a simple selection menu. You can set the transition speeds and how long the element will take to get in and out.
 
-<li>
-<strong>Completly Responsive</strong>
-Responsive means that the Slider will be displayed correctly in every resolution that the user will use. If the display is small (like in a smartphone), the slides and the elements will be scaled to be adapted.
-</li>
+=Completly Responsive=
+*Responsive means that the Slider will be displayed correctly in every resolution that the user will use. If the display is small (like in a smartphone), the slides and the elements will be scaled to be adapted.
 
-<li>
-<strong>Full & Fixed Width Modes</strong>
-Using Crelly Slider you can select between a fixed or a full-width layout (both of them can be responsive). You are the designer, you own the WebSite, just choose the best for it.
-</li>
-</ul>
+=Full & Fixed Width Modes=
+*Using Crelly Slider you can select between a fixed or a full-width layout (both of them can be responsive). You are the designer, you own the WebSite, just choose the best for it.
 
 == Installation ==
 
