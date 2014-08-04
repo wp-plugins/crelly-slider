@@ -8,7 +8,7 @@ Stable tag: 0.6.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The first FREE WP Slider with elements animations
+The first FREE WP Slider with elements animations.
 
 == Description ==
 
