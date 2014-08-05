@@ -12,8 +12,6 @@ The first FREE WP Slider with elements animations.
 
 == Description ==
 
-![Crelly Slider](/assets/logo2.png "Crelly Slider")
-<br />
 Crelly Slider is a Free / Open Source WordPress slider with a powerful Drag & Drop Builder. You can add Texts and Images using animations and transitions. It's perfect to display your creative content in posts and pages. With it's tons of features, Crelly Slider is the best free solution for your online WebSite.
 <br />
 <br />
