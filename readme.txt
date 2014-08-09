@@ -2,8 +2,8 @@
 Contributors:  fabiorino
 Donate link: http://fabiorino1.altervista.org/projects/crellyslider/contribute-and-support/
 Tags: slider, slides, animations, drag & drop, drag and drop, layers, elements
-Requires at least: 3.0.1
-Tested up to: 3.9
+Requires at least: 3.5.0
+Tested up to: 3.9.1
 Stable tag: 0.6.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -54,6 +54,10 @@ You can find the documentation <a href="http://fabiorino1.altervista.org/project
 
 == Changelog ==
 
+= 0.6.8 =
+* Added callback functions: beforeStart, beforeSetResponsive, afterSetResponsive, beforeSlideStart, afterSlideEnd, beforePause, afterPause, beforeResume
+* Fixed responsive methods that restarted the slide in particular moments uselessly
+
 = 0.6.7 =
 * Fixed "Add image" not working on Firefox and Internet Explorer
 * Fixed "Duplicate element" on animations
@@ -62,4 +66,4 @@ You can find the documentation <a href="http://fabiorino1.altervista.org/project
 * Fixed directory error
 
 = 0.6.5 =
-* Initial release.
+* Initial release
