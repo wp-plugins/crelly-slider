@@ -14,7 +14,7 @@
 /** GLOBALS **/
 /*************/ 
 
-define('CS_VERSION', '0.6.7');
+define('CS_VERSION', '0.6.8');
 define('CS_PATH', plugin_dir_path(__FILE__));
 define('CS_PLUGIN_URL', plugins_url() . '/crelly-slider');
 
