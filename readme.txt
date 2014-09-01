@@ -2,9 +2,9 @@
 Contributors:  fabiorino
 Donate link: http://fabiorino1.altervista.org/projects/crellyslider/contribute-and-support/
 Tags: slider, slides, animations, drag & drop, drag and drop, layers, elements
-Requires at least: 3.5.0
-Tested up to: 3.9.1
-Stable tag: 0.6.8
+Requires at least: 3.6.0
+Tested up to: 3.9.2
+Stable tag: 0.6.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,6 +53,19 @@ You can find the documentation <a href="http://fabiorino1.altervista.org/project
 2. The slider back-end interface
 
 == Changelog ==
+
+= 0.6.9 =
+* Added the possibility to insert links in images and texts
+* Added slider preloader (with a gif image)
+* Added icon in the style of WordPress to the lateral sidebar in the admin panel
+* Added confirm alert when you delete a slider
+* Fixed: now HTML codes inserted in text elements are working properly
+* Fixed: when you selected an element into the editing area weren't shown the correct element options
+* Fixed invisible progress bar in Internet Explorer 8
+* Fixed invisible slider navigation in Internet Explorer 8
+* Changed: text output is now wrapped by a "div" and not a "p" for a better compatibility and a cleaner code
+* Changed name to the "add image" button in the element options
+* Other minor bug fixes and changes
 
 = 0.6.8 =
 * Added callback functions: beforeStart, beforeSetResponsive, afterSetResponsive, beforeSlideStart, afterSlideEnd, beforePause, afterPause, beforeResume
