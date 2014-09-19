@@ -54,7 +54,7 @@ You can find the documentation <a href="http://fabiorino1.altervista.org/project
 
 == Changelog ==
 
-=0.7.0=
+= 0.7.0 =
 * Fixed "Error saving elements" if there are no elements
 
 = 0.6.9 =
