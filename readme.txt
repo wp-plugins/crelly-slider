@@ -51,6 +51,7 @@ You can find the documentation <a href="http://fabiorino1.altervista.org/project
 
 1. An example of a slide you can create
 2. The slider back-end interface
+3. Unlimited sliders
 
 == Changelog ==
 
