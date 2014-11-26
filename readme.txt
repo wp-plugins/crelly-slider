@@ -4,7 +4,7 @@ Donate link: http://fabiorino1.altervista.org/projects/crellyslider/contribute-a
 Tags: slider, slides, animations, drag & drop, drag and drop, layers, elements
 Requires at least: 3.6.0
 Tested up to: 4.0
-Stable tag: 0.7.0
+Stable tag: 0.8.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
