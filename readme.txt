@@ -60,6 +60,7 @@ You can find the documentation <a href="http://fabiorino1.altervista.org/project
 = 0.8.2 =
 * Fixed: broken admin layout on Firefox (<a href="https://github.com/fabiorino/crelly-slider/pull/5">Thanks eduardoarandah</a>)
 * Crelly Slider is now translated in Spanish (<a href="https://github.com/eduardoarandah/crelly-slider/commit/3b7d49b63d9dbe60c420669edea898de34cd720f">Again, thanks eduardoarandah</a>) and in Italian!
+* Do you want to translate the plugin in your language? <a href="http://fabiorino1.altervista.org/projects/crellyslider/documentation/#translate">Check the documentation</a>
 
 = 0.8.1 =
 * Fixed: padding broken in IE8
