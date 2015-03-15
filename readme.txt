@@ -57,6 +57,10 @@ You can find the documentation <a href="http://fabiorino1.altervista.org/project
 
 == Changelog ==
 
+= 0.8.2 =
+* Fixed: broken admin layout on Firefox (<a href="https://github.com/fabiorino/crelly-slider/pull/5">Thanks eduardoarandah</a>)
+* Crelly Slider is now translated in Spanish (<a href="https://github.com/eduardoarandah/crelly-slider/commit/3b7d49b63d9dbe60c420669edea898de34cd720f">Again, thanks eduardoarandah</a>) and in Italian!
+
 = 0.8.1 =
 * Fixed: padding broken in IE8
 * Fixed: background images with a long name weren't stored correctly into the database
